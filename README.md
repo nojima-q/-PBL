@@ -1,22 +1,30 @@
 がん研究会PBL　シラバス
+
 Transcriptome解析
 
 ・日時
 2021年12月13日(月) 13時−17時
+
 2021年12月15日(水) 13時−17時
+
 
 ・場所
 研究所4階　435セミナー室 (基本的にzoom開催ですが、期間中、講師の先生がおられる435セミナー室でも（密にならない範囲で）受講可能です。また、エラー等が遠隔で解消できない時には、直接指導を受けることができます)。
 
+
 ・講義の概要と学習目標
 公共データベースに格納されているRNA-Seqデータを取得し、発現変動遺伝子（Differentially expressed genes; DEGs）の検出、DEGsを用いた各種エンリッチメント解析を行う。
+
 
 ・用意するもの
 コンピュータ１台
 
+
 ・環境
 OS：Windows、Mac、Linux（Windowsの場合は仮想でUNIX OSを入れるか、Cygwin等を利用して下さい。）
+
 解析後半では、RStudioを使用します。
+
 
 ・使用するツール
 A)	端末上で操作
@@ -25,7 +33,7 @@ Trimmomatic（http://www.usadellab.org/cms/?page=trimmomatic）
 HISAT2（http://daehwankimlab.github.io/hisat2/）
 featureCounts（http://subread.sourceforge.net/）
 B)	RStudio上で操作
-library(GenomicFeatures)\\
+library(GenomicFeatures)
 library(ggplot2)
 library(ggrepel)
 library(reshape2)
