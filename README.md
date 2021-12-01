@@ -59,5 +59,8 @@ library(org.Hs.eg.db)
 8	DEGsの検出\
 9	エンリッチメント解析
 
+## 講義資料・チュートリアル
+https://github.com/nojima-q/2021-12-13-15_PBL_analysis.git
+
 ### ご質問・ご希望などがありましたら、八尾までご遠慮なくお申し付けください。
 
