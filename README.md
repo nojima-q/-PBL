@@ -25,7 +25,7 @@ Trimmomatic（http://www.usadellab.org/cms/?page=trimmomatic）
 HISAT2（http://daehwankimlab.github.io/hisat2/）
 featureCounts（http://subread.sourceforge.net/）
 B)	RStudio上で操作
-library(GenomicFeatures)
+library(GenomicFeatures)\\
 library(ggplot2)
 library(ggrepel)
 library(reshape2)
