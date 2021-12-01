@@ -24,11 +24,11 @@ OS：Windows、Mac、Linux（Windowsの場合は仮想でUNIX OSを入れるか�
 
 ## 使用するツール
 ### 端末上で操作
-SRA Toolkit(https://github.com/ncbi/sra-tools/wiki/01.-Downloading-SRA-Toolkit) \
-FastQC(https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) \
-Trimmomatic(http://www.usadellab.org/cms/?page=trimmomatic) \
-HISAT2(http://daehwankimlab.github.io/hisat2/) \
-featureCounts(http://subread.sourceforge.net/)
+SRA Toolkit (https://github.com/ncbi/sra-tools/wiki/01.-Downloading-SRA-Toolkit) \
+FastQC (https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) \
+Trimmomatic (http://www.usadellab.org/cms/?page=trimmomatic) \
+HISAT2 (http://daehwankimlab.github.io/hisat2/) \
+featureCounts (http://subread.sourceforge.net/)
 ### RStudio上で操作
 library(GenomicFeatures)\
 library(ggplot2)\
