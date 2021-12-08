@@ -19,6 +19,8 @@
 
 ## 環境
 OS：Windows、Mac、Linux（Windowsの場合は仮想でUNIX OSを入れるか、Cygwin等を利用して下さい。）\
+Cygwinのインストール方法は、下記を参照して下さい。\
+[![](https://img.youtube.com/vi/kMjD6KWdqxM&feature=emb_imp_woyt/0.jpg)](https://www.youtube.com/watch?v=kMjD6KWdqxM&feature=emb_imp_woyt)\
 解析後半では、RStudioを使用します。
 
 
