@@ -21,7 +21,7 @@
 OS：Windows、Mac、Linux（Windowsの場合は仮想でUNIX OSを入れるか、Cygwin等を利用して下さい。）\
 Cygwinのインストール方法は、下記を参照して下さい。\
 [![http://img.youtube.com/vi/kMjD6KWdqxM/sddefault.jpg](https://img.youtube.com/vi/kMjD6KWdqxM/0.jpg)](https://www.youtube.com/watch?v=kMjD6KWdqxM)\
-Cygwinを利用する場合は、下記の一部のツールの実行にJavaとPerlが必要です。それぞれインストールして下さい。
+Cygwinを利用する場合は、下記の一部のツールの実行にJavaとPerlが必要です。それぞれインストールして下さい。\
 解析後半では、RStudioを使用します。
 
 
