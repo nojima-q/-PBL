@@ -33,16 +33,16 @@ Trimmomatic (http://www.usadellab.org/cms/?page=trimmomatic) \
 HISAT2 (http://daehwankimlab.github.io/hisat2/) \
 featureCounts (http://subread.sourceforge.net/)
 ### RStudio上で操作
-library(GenomicFeatures)\
-library(ggplot2)\
-library(ggrepel)\
-library(reshape2)\
-library(biomaRt)\
-library(dplyr)\
-library(clusterProfiler)\
-library(enrichplot)\
-library(DOSE)\
-library(org.Hs.eg.db)
+```
+install.packages("BiocManager")
+install.packages("ggplot2")
+install.packages("reshape2")
+BiocManager::install("GenomicFeatures")
+BiocManager::install("clusterProfiler")
+BiocManager::install("biomaRt")
+BiocManager::install("org.Hs.eg.db")
+BiocManager::install("DOSE")
+```
 
 ## スケジュール
 １日目：各種ツールのインストール、下記解析計画のチュートリアル\
